@@ -1,5 +1,5 @@
-\id FRT ENG-GB (p.sfm) - Preface to the World English Bible British Edition with Deuterocanon. Public Domain 2020. Rev. Michael Paul Johnson, editor. 
-\id UTF-8
+\id FRT ENG-GB (p.sfm) - Preface to the World English Bible British Edition with Deuterocanon. (WEBBE) Public Domain 2020. Rev. Michael Paul Johnson, editor. -
+\ide UTF-8
 \rem Version 20200309
 \rem Title Page
 \toc2 Title Page
@@ -74,6 +74,7 @@
 \ip For answers to frequently asked questions about the World English Bible, please visit our web site at WorldEnglish.Bible. 
 \ip For a list of what is different between the World English Bible and the World English Bible British Edition, besides the handling of God's Proper Name, see  the list of differences in the Appendix. 
 \periph Old Testament Intro
+\h ~
 \toc0 Old Testament
 \toc2 Old Testament
 \toc3 OT
